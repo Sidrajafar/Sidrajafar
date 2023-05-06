@@ -1,8 +1,7 @@
 <h1 align="center">Hello 👋, I'm Sidrajafar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" scr="![image](https://user-images.githubusercontent.com/125500554/236645356-c89648a7-6664-4546-a0b1-b96d61e51efe.png)">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sidrajafar&label=Profile%20views&color=0e75b6&style=flat" alt="sidrajafar" /> </p>
+<img align="right" alt="coding" width="400" scr="https://mir-s3-cdncf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<p align="left"> <img src="../https://komarev.com/ghpvc/?username=sidrajafar&label=Profile%20views&color=0e75b6&style=flat" alt="sidrajafar" /> </p>
 
 - 🔭 I’m currently working on **JavaScript**
 
